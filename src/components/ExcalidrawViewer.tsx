@@ -51,6 +51,47 @@ interface InternalExcalidrawApi {
   getFiles?: () => Record<string, unknown>;
 }
 
+/** Calibrate with browser console; scene banner sits near x ≈ -3050. */
+const FIXED_INITIAL_SCROLL_X = 3100;
+const FIXED_INITIAL_SCROLL_Y = 350;
+const FIXED_INITIAL_ZOOM = 1;
+
+/** TEMP: set to false or delete `logViewportDebug` usage to remove calibration logs. */
+const DEBUG_LOG_VIEWPORT = true;
+
+function mergeInitialAppState(
+  base: Partial<ExcalidrawAppState> | undefined,
+): Partial<ExcalidrawAppState> {
+  const b = base || {};
+  const prevZoom =
+    b.zoom && typeof b.zoom === 'object' && 'value' in b.zoom ? b.zoom : {};
+
+  return {
+    ...b,
+    scrollX: FIXED_INITIAL_SCROLL_X,
+    scrollY: FIXED_INITIAL_SCROLL_Y,
+    zoom: {
+      ...prevZoom,
+      value: FIXED_INITIAL_ZOOM,
+    },
+  };
+}
+
+function logViewportDebug(appState: {
+  scrollX?: number;
+  scrollY?: number;
+  zoom?: { value?: number };
+}) {
+  if (!DEBUG_LOG_VIEWPORT) {
+    return;
+  }
+  console.log('[excalidraw viewport]', {
+    scrollX: appState.scrollX,
+    scrollY: appState.scrollY,
+    zoom: appState.zoom?.value,
+  });
+}
+
 const isValidHttpsUrl = (value: string | undefined): value is string => {
   if (!value) {
     return false;
@@ -214,18 +255,20 @@ export const ExcalidrawViewer: React.FC<ExcalidrawViewerProps> = ({
 }) => {
   type ExcalidrawOnChange = NonNullable<React.ComponentProps<typeof Excalidraw>['onChange']>;
 
+  const mergedInitialAppState = mergeInitialAppState(initialData.appState);
+
   const [overlayElements, setOverlayElements] = React.useState<OverlayEmbedElement[]>(
     toOverlayEmbedElements(initialData.elements || []),
   );
   const [overlayViewport, setOverlayViewport] = React.useState<OverlayViewportState>({
-    scrollX: initialData.appState?.scrollX ?? 0,
-    scrollY: initialData.appState?.scrollY ?? 0,
-    zoom: initialData.appState?.zoom?.value ?? 1,
+    scrollX: mergedInitialAppState.scrollX ?? 0,
+    scrollY: mergedInitialAppState.scrollY ?? 0,
+    zoom: mergedInitialAppState.zoom?.value ?? 1,
   });
   const [latestAppState, setLatestAppState] = React.useState<OverlayViewportState>({
-    scrollX: initialData.appState?.scrollX ?? 0,
-    scrollY: initialData.appState?.scrollY ?? 0,
-    zoom: initialData.appState?.zoom?.value ?? 1,
+    scrollX: mergedInitialAppState.scrollX ?? 0,
+    scrollY: mergedInitialAppState.scrollY ?? 0,
+    zoom: mergedInitialAppState.zoom?.value ?? 1,
   });
   const [selectedIframeId, setSelectedIframeId] = React.useState<string | null>(null);
   const [interactiveIframeId, setInteractiveIframeId] = React.useState<string | null>(null);
@@ -235,8 +278,9 @@ export const ExcalidrawViewer: React.FC<ExcalidrawViewerProps> = ({
   const preparedInitialData = React.useMemo(
     () => ({
       elements: initialData.elements || [],
-      appState: initialData.appState || {},
+      appState: mergeInitialAppState(initialData.appState),
       files: initialData.files || {},
+      scrollToContent: false,
     }),
     [initialData],
   );
@@ -246,6 +290,7 @@ export const ExcalidrawViewer: React.FC<ExcalidrawViewerProps> = ({
   const handleChange: ExcalidrawOnChange = useCallback(
     (elements, appState, files) => {
       void files;
+      logViewportDebug(appState);
       const nextViewport: OverlayViewportState = {
         scrollX: appState.scrollX ?? 0,
         scrollY: appState.scrollY ?? 0,
