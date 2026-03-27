@@ -102,68 +102,6 @@ const getEmbedKind = (element: ExcalidrawElement): OverlayEmbedKind => {
   return inferEmbedKindFromUrl(src);
 };
 
-// TEMP MVP: inject a single sample rectangle embed if scene has none yet.
-// Remove this helper once embeds are authored directly in scene data.
-const withFallbackSampleEmbed = (elements: ExcalidrawElement[]): ExcalidrawElement[] => {
-  const hasRealIframeEmbed = elements.some(
-    (element) =>
-      !element.isDeleted &&
-      element.id !== 'mvp-sample-iframe-embed' &&
-      element.customData?.embedType === 'iframe' &&
-      isValidHttpsUrl(element.customData.src),
-  );
-
-  if (hasRealIframeEmbed) {
-    return elements.filter((element) => element.id !== 'mvp-sample-iframe-embed');
-  }
-
-  const hasAnyIframeEmbed = elements.some(
-    (element) =>
-      !element.isDeleted &&
-      element.customData?.embedType === 'iframe' &&
-      isValidHttpsUrl(element.customData.src),
-  );
-
-  if (hasAnyIframeEmbed) {
-    return elements;
-  }
-
-  const now = Date.now();
-  const fallbackElement: ExcalidrawElement = {
-    id: 'mvp-sample-iframe-embed',
-    type: 'rectangle',
-    x: 120,
-    y: 120,
-    width: 480,
-    height: 320,
-    angle: 0,
-    strokeColor: '#1e1e1e',
-    backgroundColor: 'transparent',
-    fillStyle: 'hachure',
-    strokeWidth: 1,
-    strokeStyle: 'solid',
-    roughness: 1,
-    opacity: 100,
-    groupIds: [],
-    frameId: null,
-    roundness: null,
-    seed: 1,
-    versionNonce: 1,
-    isDeleted: false,
-    boundElements: [],
-    updated: now,
-    link: null,
-    locked: false,
-    customData: {
-      embedType: 'iframe',
-      src: 'https://www.linalopes.info',
-      title: 'Example',
-    },
-  };
-
-  return [...elements, fallbackElement];
-};
-
 const getVisibleIframeEmbedElements = (elements: ExcalidrawElement[]): ExcalidrawElement[] => {
   return elements.filter((element) => {
     if (element.isDeleted || element.width <= 0 || element.height <= 0) {
@@ -277,7 +215,7 @@ export const ExcalidrawViewer: React.FC<ExcalidrawViewerProps> = ({
   type ExcalidrawOnChange = NonNullable<React.ComponentProps<typeof Excalidraw>['onChange']>;
 
   const [overlayElements, setOverlayElements] = React.useState<OverlayEmbedElement[]>(
-    toOverlayEmbedElements(withFallbackSampleEmbed(initialData.elements || [])),
+    toOverlayEmbedElements(initialData.elements || []),
   );
   const [overlayViewport, setOverlayViewport] = React.useState<OverlayViewportState>({
     scrollX: initialData.appState?.scrollX ?? 0,
@@ -294,11 +232,9 @@ export const ExcalidrawViewer: React.FC<ExcalidrawViewerProps> = ({
   const containerRef = React.useRef<HTMLDivElement | null>(null);
   const excalidrawApiRef = React.useRef<InternalExcalidrawApi | null>(null);
 
-  // Prepare initial scene data once per incoming initialData change.
-  // Fallback embed injection lives only in this initialization path.
   const preparedInitialData = React.useMemo(
     () => ({
-      elements: withFallbackSampleEmbed(initialData.elements || []),
+      elements: initialData.elements || [],
       appState: initialData.appState || {},
       files: initialData.files || {},
     }),
@@ -445,11 +381,8 @@ export const ExcalidrawViewer: React.FC<ExcalidrawViewerProps> = ({
     ]);
 
     const sceneElements = excalidrawApiRef.current?.getSceneElements() || [];
-    const nonFallbackSceneElements = sceneElements.filter(
-      (element) => element.id !== 'mvp-sample-iframe-embed',
-    );
     const mergedElements = [
-      ...nonFallbackSceneElements,
+      ...sceneElements,
       newElement as unknown as ExcalidrawElement,
     ];
 

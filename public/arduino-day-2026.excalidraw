@@ -35,8 +35,8 @@
     {
       "type": "text",
       "id": "qvaRvYbjtymrXVHNuSQt9",
-      "x": -2067.3062777527225,
-      "y": -251.43915999451463,
+      "x": -2946.8800350366246,
+      "y": -248.91877850957303,
       "width": 2071.875,
       "height": 56,
       "text": "PAPER AS INTERFACE  —  Arduino Day 2026  ·  School of Tomorrow's AI  ·  Saturday 28 March 2026  ·  13:00–16:00 CET  ·  Wetzikon + Twitch",
@@ -44,8 +44,8 @@
       "fontFamily": 3,
       "textAlign": "left",
       "color": "#EA7DFF",
-      "version": 135,
-      "versionNonce": 1111082455,
+      "version": 218,
+      "versionNonce": 1305034169,
       "isDeleted": false,
       "angle": 0,
       "opacity": 100,
@@ -62,7 +62,7 @@
       "backgroundColor": "transparent",
       "roundness": null,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774649253264,
       "link": null,
       "locked": false,
       "verticalAlign": "top",
@@ -1581,8 +1581,8 @@
       "fillStyle": "solid",
       "roughness": 0,
       "roundness": null,
-      "version": 42,
-      "versionNonce": 2145841527,
+      "version": 43,
+      "versionNonce": 341719863,
       "isDeleted": false,
       "angle": 0,
       "opacity": 100,
@@ -1592,8 +1592,13 @@
       "index": "b0c",
       "strokeWidth": 2,
       "strokeStyle": "solid",
-      "boundElements": [],
-      "updated": 1774648417966,
+      "boundElements": [
+        {
+          "id": "YOLGV09GVR8RPLngAWHsq",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774649295098,
       "link": null,
       "locked": false,
       "hasTextLink": false
@@ -115498,8 +115503,8 @@
         "type": 3
       },
       "seed": 1594029561,
-      "version": 645,
-      "versionNonce": 2130627223,
+      "version": 647,
+      "versionNonce": 1503436375,
       "isDeleted": false,
       "boundElements": [
         {
@@ -115507,7 +115512,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1774648417966,
+      "updated": 1774649158346,
       "link": null,
       "locked": false,
       "hasTextLink": false
@@ -115532,13 +115537,15 @@
       ],
       "frameId": null,
       "index": "b8v",
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1661193945,
-      "version": 563,
-      "versionNonce": 219811417,
+      "version": 564,
+      "versionNonce": 314857113,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774649158346,
       "link": null,
       "locked": false,
       "text": "Listen Reader · 2001",
@@ -115572,13 +115579,15 @@
       ],
       "frameId": null,
       "index": "b8w",
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1731627961,
-      "version": 559,
-      "versionNonce": 1947688887,
+      "version": 560,
+      "versionNonce": 725924727,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774649158346,
       "link": null,
       "locked": false,
       "text": "Back, Cohen / Xerox",
@@ -115612,13 +115621,15 @@
       ],
       "frameId": null,
       "index": "b8x",
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1405004953,
-      "version": 559,
-      "versionNonce": 56154937,
+      "version": 560,
+      "versionNonce": 621812601,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774649158346,
       "link": null,
       "locked": false,
       "text": "Paper book triggers audio",
@@ -115652,13 +115663,15 @@
       ],
       "frameId": null,
       "index": "b8y",
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1078964601,
-      "version": 559,
-      "versionNonce": 530600151,
+      "version": 560,
+      "versionNonce": 137114775,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774649158346,
       "link": null,
       "locked": false,
       "text": "CHI 2001",
@@ -117826,12 +117839,10 @@
       "groupIds": [],
       "frameId": null,
       "index": "b9n",
-      "roundness": {
-        "type": 3
-      },
+      "roundness": null,
       "seed": 2098700825,
-      "version": 589,
-      "versionNonce": 656229881,
+      "version": 590,
+      "versionNonce": 2098708793,
       "isDeleted": false,
       "boundElements": [
         {
@@ -117839,7 +117850,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1774648417966,
+      "updated": 1774649167346,
       "link": "http://reactable.com/wp-content/uploads/2015/09/reactable_live_mhd_sonard_2015.jpg",
       "locked": false,
       "scale": [
@@ -118707,6 +118718,97 @@
       "hasTextLink": false,
       "moveMidPointsWithElement": false,
       "lastCommittedPoint": null
+    },
+    {
+      "id": "YOLGV09GVR8RPLngAWHsq",
+      "type": "arrow",
+      "x": -3025.235643123772,
+      "y": 338.1195630785079,
+      "width": 723.6750512412095,
+      "height": 1.248286835968429,
+      "angle": 0,
+      "strokeColor": "#3b0764",
+      "backgroundColor": "#08f2db",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAA",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 593355641,
+      "version": 193,
+      "versionNonce": 1501543511,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774649295100,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          723.6750512412095,
+          1.248286835968429
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "XZHWT820SjG2u3AYPSlkU",
+        "focus": 0,
+        "gap": 14
+      },
+      "endBinding": {
+        "elementId": "XZHWT820SjG2u3AYPSlkU",
+        "focus": -0.17395308626499711,
+        "gap": 14
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "pfRLAhjRr2v999Yaf3bW3",
+      "type": "text",
+      "x": -2287.181036147604,
+      "y": 314.1019858822427,
+      "width": 240.9609375,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#3b0764",
+      "backgroundColor": "#08f2db",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAB",
+      "roundness": null,
+      "seed": 610259607,
+      "version": 35,
+      "versionNonce": 566967511,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774649317864,
+      "link": null,
+      "locked": false,
+      "text": "swipe to the side",
+      "fontSize": 36,
+      "fontFamily": 4,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "swipe to the side",
+      "autoResize": true,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
