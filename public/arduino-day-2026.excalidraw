@@ -119686,6 +119686,42 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
+    },
+    {
+      "id": "_6s02wZnQ7DmZlRNtBZ0G",
+      "type": "rectangle",
+      "x": 895.9295600314842,
+      "y": 120.72457185235076,
+      "width": 331.57664557307294,
+      "height": 447.7666841703746,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAk",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 239226064,
+      "version": 310,
+      "versionNonce": 982046928,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774685982499,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "iframe",
+        "src": "https://www.marianatamashiro.com/movement-kit",
+        "title": "https://www.marianatamashiro.com/movement-kit"
+      }
     }
   ],
   "appState": {
