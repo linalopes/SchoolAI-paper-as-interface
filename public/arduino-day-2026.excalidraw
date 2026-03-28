@@ -1581,8 +1581,8 @@
       "fillStyle": "solid",
       "roughness": 0,
       "roundness": null,
-      "version": 43,
-      "versionNonce": 341719863,
+      "version": 49,
+      "versionNonce": 281358361,
       "isDeleted": false,
       "angle": 0,
       "opacity": 100,
@@ -1598,7 +1598,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1774649295098,
+      "updated": 1774679852020,
       "link": null,
       "locked": false,
       "hasTextLink": false
@@ -110563,11 +110563,11 @@
       "index": "b6y",
       "roundness": null,
       "seed": 1264532729,
-      "version": 424,
-      "versionNonce": 172982039,
+      "version": 449,
+      "versionNonce": 2098153815,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678928683,
       "link": null,
       "locked": false,
       "hasTextLink": false
@@ -110594,11 +110594,11 @@
       "index": "b6z",
       "roundness": null,
       "seed": 708785625,
-      "version": 424,
-      "versionNonce": 599581145,
+      "version": 449,
+      "versionNonce": 358996889,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678928683,
       "link": null,
       "locked": false,
       "text": "Electronics / Analog",
@@ -110634,11 +110634,11 @@
       "index": "b70",
       "roundness": null,
       "seed": 544019129,
-      "version": 424,
-      "versionNonce": 744326199,
+      "version": 449,
+      "versionNonce": 1093273207,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678928683,
       "link": null,
       "locked": false,
       "hasTextLink": false
@@ -110665,11 +110665,11 @@
       "index": "b71",
       "roundness": null,
       "seed": 1384928153,
-      "version": 424,
-      "versionNonce": 1968520889,
+      "version": 449,
+      "versionNonce": 1127809145,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678928683,
       "link": null,
       "locked": false,
       "text": "Computer Vision / Optical",
@@ -112810,11 +112810,16 @@
       "index": "b7r",
       "roundness": null,
       "seed": 508545305,
-      "version": 386,
-      "versionNonce": 107235705,
+      "version": 387,
+      "versionNonce": 695250743,
       "isDeleted": false,
-      "boundElements": [],
-      "updated": 1774648417966,
+      "boundElements": [
+        {
+          "id": "VLcimqzEiXy6qOVbfWpbW",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679031566,
       "link": null,
       "locked": false,
       "text": "Pop-up book + copper tape",
@@ -112850,16 +112855,20 @@
       "index": "b7s",
       "roundness": null,
       "seed": 1133067769,
-      "version": 388,
-      "versionNonce": 939124375,
+      "version": 389,
+      "versionNonce": 1365645017,
       "isDeleted": false,
       "boundElements": [
         {
           "id": "mFksa5MngK34CFhw3b2uw",
           "type": "arrow"
+        },
+        {
+          "id": "-BWFjHtDNJSbd2bzHM6sh",
+          "type": "arrow"
         }
       ],
-      "updated": 1774648417966,
+      "updated": 1774678658018,
       "link": "technolojie.com",
       "locked": false,
       "text": "technolojie.com · PhD 2016",
@@ -113732,11 +113741,16 @@
       "index": "b8D",
       "roundness": null,
       "seed": 269095001,
-      "version": 368,
-      "versionNonce": 2056406809,
+      "version": 369,
+      "versionNonce": 780749815,
       "isDeleted": false,
-      "boundElements": [],
-      "updated": 1774648417966,
+      "boundElements": [
+        {
+          "id": "FcByyPGzqEPYIzIujcvVU",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679034031,
       "link": null,
       "locked": false,
       "text": "Jie Qi",
@@ -113812,16 +113826,20 @@
       "index": "b8F",
       "roundness": null,
       "seed": 1245875737,
-      "version": 369,
-      "versionNonce": 785120249,
+      "version": 370,
+      "versionNonce": 1403234071,
       "isDeleted": false,
       "boundElements": [
         {
           "id": "32ZlMBvM9H9nuKaGg82Zb",
           "type": "arrow"
+        },
+        {
+          "id": "6GHvoqeCOs9s9MSz43rAW",
+          "type": "arrow"
         }
       ],
-      "updated": 1774648417966,
+      "updated": 1774678566957,
       "link": "chibitronics.com",
       "locked": false,
       "text": "chibitronics.com",
@@ -114459,11 +114477,16 @@
       "index": "b8V",
       "roundness": null,
       "seed": 1154923545,
-      "version": 364,
-      "versionNonce": 797291257,
+      "version": 365,
+      "versionNonce": 1264562713,
       "isDeleted": false,
-      "boundElements": [],
-      "updated": 1774648417966,
+      "boundElements": [
+        {
+          "id": "_KPDdqq_UJ4zAzPX_hblm",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774678608396,
       "link": null,
       "locked": false,
       "text": "CHI publication",
@@ -116363,11 +116386,16 @@
       "index": "b9F",
       "roundness": null,
       "seed": 805357657,
-      "version": 378,
-      "versionNonce": 679125785,
+      "version": 379,
+      "versionNonce": 1661468663,
       "isDeleted": false,
-      "boundElements": [],
-      "updated": 1774648417966,
+      "boundElements": [
+        {
+          "id": "g1uTGD8KESlCP1rhPeVFV",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774678955119,
       "link": "https://reactable.com/",
       "locked": false,
       "text": "reactable.com",
@@ -116525,11 +116553,16 @@
       "index": "b9J",
       "roundness": null,
       "seed": 1780569049,
-      "version": 375,
-      "versionNonce": 1010659545,
+      "version": 376,
+      "versionNonce": 1235192791,
       "isDeleted": false,
-      "boundElements": [],
-      "updated": 1774648417966,
+      "boundElements": [
+        {
+          "id": "gEHTBQaMToD-PGk7XH0GG",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774678812449,
       "link": null,
       "locked": false,
       "text": "Microdot paper + smartpen",
@@ -116896,24 +116929,20 @@
       "width": 84.68946710184667,
       "height": 40.116063364032634,
       "angle": 0,
-      "strokeColor": "#8b5cf6",
-      "backgroundColor": "#d0bfff",
+      "strokeColor": "#3b0764",
+      "backgroundColor": "#f8f0fc",
       "fillStyle": "solid",
-      "strokeWidth": 2,
+      "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "DvemMAV9VjNm9RS3xg0L9"
-      ],
+      "opacity": 50,
+      "groupIds": [],
       "frameId": null,
       "index": "b9S",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 1891919801,
-      "version": 866,
-      "versionNonce": 956666295,
+      "roundness": null,
+      "seed": 31345553,
+      "version": 893,
+      "versionNonce": 1241287551,
       "isDeleted": false,
       "boundElements": [
         {
@@ -116925,7 +116954,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1774648417966,
+      "updated": 1774651144911,
       "link": null,
       "locked": false,
       "hasTextLink": false
@@ -116945,18 +116974,21 @@
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
-      "groupIds": [
-        "DvemMAV9VjNm9RS3xg0L9"
-      ],
+      "groupIds": [],
       "frameId": null,
       "index": "b9T",
       "roundness": null,
       "seed": 657524889,
-      "version": 872,
-      "versionNonce": 1897843001,
+      "version": 874,
+      "versionNonce": 1896490905,
       "isDeleted": false,
-      "boundElements": [],
-      "updated": 1774648417966,
+      "boundElements": [
+        {
+          "id": "ufJ_QNxeEW9ii1dUXX-mf",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774678774792,
       "link": null,
       "locked": false,
       "text": "Mattel Electronic \nConnection · 1970s",
@@ -116985,18 +117017,16 @@
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
-      "groupIds": [
-        "DvemMAV9VjNm9RS3xg0L9"
-      ],
+      "groupIds": [],
       "frameId": null,
       "index": "b9U",
       "roundness": null,
       "seed": 756452729,
-      "version": 875,
-      "versionNonce": 1274561239,
+      "version": 876,
+      "versionNonce": 972900223,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774651055873,
       "link": null,
       "locked": false,
       "text": "Conductive ink game cards \ndraw to make music",
@@ -117822,170 +117852,12 @@
       "lastCommittedPoint": null
     },
     {
-      "id": "XWPXXVW6HAtYleGvgxN-A",
-      "type": "embeddable",
-      "x": 2196.540871889953,
-      "y": 390.25995630032855,
-      "width": 126.92663429991053,
-      "height": 106.65438898258262,
-      "angle": 0,
-      "strokeColor": "#3b0764",
-      "backgroundColor": "#d0bfff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b9n",
-      "roundness": null,
-      "seed": 2098700825,
-      "version": 590,
-      "versionNonce": 2098708793,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "g1uTGD8KESlCP1rhPeVFV",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1774649167346,
-      "link": "http://reactable.com/wp-content/uploads/2015/09/reactable_live_mhd_sonard_2015.jpg",
-      "locked": false,
-      "scale": [
-        1,
-        1
-      ],
-      "hasTextLink": false
-    },
-    {
-      "id": "4IpcfVi4yAA-4FIuBmBk-",
-      "type": "embeddable",
-      "x": 2416.2512423358367,
-      "y": 403.8831267872999,
-      "width": 141.9776886919891,
-      "height": 89.89034004453634,
-      "angle": 0,
-      "strokeColor": "#3b0764",
-      "backgroundColor": "#d0bfff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b9o",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 233699065,
-      "version": 726,
-      "versionNonce": 1488777751,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "gEHTBQaMToD-PGk7XH0GG",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1774648417966,
-      "link": "https://inq.shop/cdn/shop/files/Screenshot_2025-04-10_at_18.40.58_1824x1024.png?v=1744306892",
-      "locked": false,
-      "scale": [
-        1,
-        1
-      ],
-      "hasTextLink": false
-    },
-    {
-      "id": "kjSbgVopKElNAdvc8O_DI",
-      "type": "embeddable",
-      "x": 2941.5035366422885,
-      "y": -492.95519853080657,
-      "width": 111.74228229357662,
-      "height": 73.78551078139087,
-      "angle": 0,
-      "strokeColor": "#3b0764",
-      "backgroundColor": "#d0bfff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b9p",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 1592176601,
-      "version": 532,
-      "versionNonce": 1398021849,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "_KPDdqq_UJ4zAzPX_hblm",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1774648417966,
-      "link": "https://circuitscribe.com/cdn/shop/products/super-plus-kit-1.jpg?v=1588278304",
-      "locked": false,
-      "scale": [
-        1,
-        1
-      ],
-      "hasTextLink": false
-    },
-    {
-      "id": "Ht5Bg4fIdwB6FXJzN64dr",
-      "type": "embeddable",
-      "x": 2745.712487701934,
-      "y": -545.4171439349408,
-      "width": 84.73073407375543,
-      "height": 68.21724700257379,
-      "angle": 0,
-      "strokeColor": "#3b0764",
-      "backgroundColor": "#d0bfff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b9q",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 102059193,
-      "version": 659,
-      "versionNonce": 1386518327,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "6GHvoqeCOs9s9MSz43rAW",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1774648417966,
-      "link": "https://makeymakey.com/cdn/shop/files/Craft_Code_1800x.webp?v=1739802092",
-      "locked": false,
-      "scale": [
-        1,
-        1
-      ],
-      "hasTextLink": false
-    },
-    {
       "id": "ghAzv7NLDXDmhnJO-dwrS",
       "type": "embeddable",
-      "x": 2678.4346810486295,
-      "y": -696.078816002036,
-      "width": 117.92443744595691,
-      "height": 86.3499124281335,
+      "x": 2552.9095438320755,
+      "y": -399.95780839435025,
+      "width": 186.54551710441297,
+      "height": 117.80950480835,
       "angle": 0,
       "strokeColor": "#3b0764",
       "backgroundColor": "#d0bfff",
@@ -118001,8 +117873,8 @@
         "type": 3
       },
       "seed": 186469785,
-      "version": 655,
-      "versionNonce": 150789049,
+      "version": 852,
+      "versionNonce": 1516757111,
       "isDeleted": false,
       "boundElements": [
         {
@@ -118010,92 +117882,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1774648417966,
+      "updated": 1774679494876,
       "link": "https://youtu.be/PV_w38ldZaE?si=RecBHSXZ3UpTWbjT",
-      "locked": false,
-      "scale": [
-        1,
-        1
-      ],
-      "hasTextLink": false
-    },
-    {
-      "id": "Y1NhAJrHmHItEeabO-is_",
-      "type": "embeddable",
-      "x": 2006.0292674583366,
-      "y": -491.930234486499,
-      "width": 109.6069227224049,
-      "height": 81.12967440760627,
-      "angle": 0,
-      "strokeColor": "#3b0764",
-      "backgroundColor": "#d0bfff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b9s",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 892482169,
-      "version": 506,
-      "versionNonce": 916101207,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "ufJ_QNxeEW9ii1dUXX-mf",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1774648417966,
-      "link": "https://i.ebayimg.com/images/g/6HcAAOSwXytnC1ZJ/s-l1600.webp",
-      "locked": false,
-      "scale": [
-        1,
-        1
-      ],
-      "hasTextLink": false
-    },
-    {
-      "id": "kRzaDyEV5hKGR_8S06k0W",
-      "type": "embeddable",
-      "x": 2253.3398377628864,
-      "y": -677.9806569698111,
-      "width": 312.2093474139401,
-      "height": 223.84691375076426,
-      "angle": 0,
-      "strokeColor": "#3b0764",
-      "backgroundColor": "#d0bfff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b9t",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 420969305,
-      "version": 701,
-      "versionNonce": 138083481,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "VLcimqzEiXy6qOVbfWpbW",
-          "type": "arrow"
-        },
-        {
-          "id": "FcByyPGzqEPYIzIujcvVU",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1774648417966,
-      "link": "https://assets.pinterest.com/ext/embed.html?id=546413367312125638",
       "locked": false,
       "scale": [
         1,
@@ -118106,10 +117894,10 @@
     {
       "id": "ufJ_QNxeEW9ii1dUXX-mf",
       "type": "arrow",
-      "x": 2023.976299223329,
-      "y": -427.9923405987869,
-      "width": 20.84241146463728,
-      "height": 494.4326288191537,
+      "x": 2038.7950748423896,
+      "y": -364.1273941986675,
+      "width": 66.80467684474843,
+      "height": 422.2765388957402,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118125,11 +117913,11 @@
         "type": 2
       },
       "seed": 1730193465,
-      "version": 513,
-      "versionNonce": 1785951607,
+      "version": 583,
+      "versionNonce": 1063430457,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678779144,
       "link": null,
       "locked": false,
       "points": [
@@ -118138,27 +117926,19 @@
           0
         ],
         [
-          -20.84241146463728,
-          494.4326288191537
+          -66.80467684474843,
+          422.2765388957402
         ]
       ],
       "startBinding": {
-        "elementId": "Y1NhAJrHmHItEeabO-is_",
-        "mode": "inside",
-        "fixedPoint": [
-          0.16373994743421388,
-          0.7880950386473836
-        ],
-        "focus": 0
+        "elementId": "NUM5dI4cCpkxtdvHlgscx",
+        "focus": -0.14260646510452904,
+        "gap": 1.0250527440103951
       },
       "endBinding": {
-        "elementId": "X_xwAAmhNJ3gCAQsZmdoT",
-        "mode": "inside",
-        "fixedPoint": [
-          0.9006877818242724,
-          0.21524110002803556
-        ],
-        "focus": 0
+        "elementId": "e_ne9Ujz5oDzjwfWupqrV",
+        "focus": 0.270088830800115,
+        "gap": 3.476381232537335
       },
       "startArrowhead": null,
       "endArrowhead": "circle",
@@ -118170,10 +117950,10 @@
     {
       "id": "8mhlBt6UwnMbKKIDsrOg3",
       "type": "arrow",
-      "x": 2690.639779111572,
-      "y": -620.5662384472638,
-      "width": 189.28602812241343,
-      "height": 710.163752929945,
+      "x": 2665.6731056994117,
+      "y": -315.09896470335485,
+      "width": 178.27654071181496,
+      "height": 398.9464749063274,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118189,11 +117969,11 @@
         "type": 2
       },
       "seed": 2033269017,
-      "version": 557,
-      "versionNonce": 1086456185,
+      "version": 752,
+      "versionNonce": 101177849,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774679048633,
       "link": null,
       "locked": false,
       "points": [
@@ -118202,8 +117982,8 @@
           0
         ],
         [
-          -189.28602812241343,
-          710.163752929945
+          -178.27654071181496,
+          398.9464749063274
         ]
       ],
       "startBinding": {
@@ -118213,7 +117993,8 @@
           0.10349931131565535,
           0.8744951260676622
         ],
-        "focus": 0
+        "focus": 0,
+        "gap": null
       },
       "endBinding": {
         "elementId": "mauQ8tgHeOGLvnHJUNsRW",
@@ -118234,10 +118015,10 @@
     {
       "id": "6GHvoqeCOs9s9MSz43rAW",
       "type": "arrow",
-      "x": 2812.7704908052024,
-      "y": -490.92174583921417,
-      "width": 113.73402434894751,
-      "height": 474.3839574687492,
+      "x": 2830.3973991623943,
+      "y": -407.97955233355583,
+      "width": 128.94803296216833,
+      "height": 378.38763499368144,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118253,11 +118034,11 @@
         "type": 2
       },
       "seed": 549236217,
-      "version": 682,
-      "versionNonce": 628338327,
+      "version": 878,
+      "versionNonce": 837669719,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678582058,
       "link": null,
       "locked": false,
       "points": [
@@ -118266,27 +118047,19 @@
           0
         ],
         [
-          -113.73402434894751,
-          474.3839574687492
+          -128.94803296216833,
+          378.38763499368144
         ]
       ],
       "startBinding": {
-        "elementId": "Ht5Bg4fIdwB6FXJzN64dr",
-        "mode": "inside",
-        "fixedPoint": [
-          0.7914247862516592,
-          0.7988507377565469
-        ],
-        "focus": 0
+        "elementId": "QO-UC_S-Kul9EkvO3kZ3x",
+        "focus": -0.40747028305437166,
+        "gap": 2.743491784704247
       },
       "endBinding": {
-        "elementId": "Zv1mv9LHl8c6fHjED8tl8",
-        "mode": "inside",
-        "fixedPoint": [
-          0.9450046699746338,
-          0.26124659178144505
-        ],
-        "focus": 0
+        "elementId": "FtqTpsEtaiyBYdGGG9eSK",
+        "focus": -2.010078632274489,
+        "gap": 14
       },
       "startArrowhead": null,
       "endArrowhead": "circle",
@@ -118298,10 +118071,10 @@
     {
       "id": "_KPDdqq_UJ4zAzPX_hblm",
       "type": "arrow",
-      "x": 3041.8095939498216,
-      "y": -435.3248290555126,
-      "width": 249.82401030888468,
-      "height": 437.2341675115083,
+      "x": 3014.5705817911003,
+      "y": -301.57356450546155,
+      "width": 178.74188011398155,
+      "height": 272.0295380698285,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118317,11 +118090,11 @@
         "type": 2
       },
       "seed": 885425881,
-      "version": 665,
-      "versionNonce": 1607821913,
+      "version": 827,
+      "versionNonce": 35814615,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678617042,
       "link": null,
       "locked": false,
       "points": [
@@ -118330,27 +118103,19 @@
           0
         ],
         [
-          -249.82401030888468,
-          437.2341675115083
+          -178.74188011398155,
+          272.0295380698285
         ]
       ],
       "startBinding": {
-        "elementId": "kjSbgVopKElNAdvc8O_DI",
-        "mode": "inside",
-        "fixedPoint": [
-          0.8976553480803509,
-          0.7810526601359344
-        ],
-        "focus": 0
+        "elementId": "DXAgpRIk8fXZ-wcI4SWTa",
+        "focus": -0.5017405797217775,
+        "gap": 1
       },
       "endBinding": {
-        "elementId": "196zQWGMYV-mZP9_1r1n5",
-        "mode": "orbit",
-        "fixedPoint": [
-          1,
-          0.5001
-        ],
-        "focus": 0
+        "elementId": "yFOq_9bGIKMpL9PxY6TPm",
+        "focus": 0,
+        "gap": 15.36316663469102
       },
       "startArrowhead": null,
       "endArrowhead": "circle",
@@ -118362,10 +118127,10 @@
     {
       "id": "FcByyPGzqEPYIzIujcvVU",
       "type": "arrow",
-      "x": 2555.9486347268034,
-      "y": -473.9690683814923,
-      "width": 233.92798951108534,
-      "height": 435.04064422416997,
+      "x": 2582.2124553848425,
+      "y": -430.726096606112,
+      "width": 134.31605837658935,
+      "height": 385.9792219953808,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118381,11 +118146,11 @@
         "type": 2
       },
       "seed": 1608663993,
-      "version": 709,
-      "versionNonce": 1112523703,
+      "version": 800,
+      "versionNonce": 1692122007,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774679040131,
       "link": null,
       "locked": false,
       "points": [
@@ -118394,27 +118159,19 @@
           0
         ],
         [
-          233.92798951108534,
-          435.04064422416997
+          134.31605837658935,
+          385.9792219953808
         ]
       ],
       "startBinding": {
-        "elementId": "kRzaDyEV5hKGR_8S06k0W",
-        "mode": "inside",
-        "fixedPoint": [
-          0.9692496380087736,
-          0.9113888825622569
-        ],
-        "focus": 0
+        "elementId": "pRio0O4L_bEt2IO2qdADh",
+        "focus": -0.12218342359200704,
+        "gap": 3.1029904181930306
       },
       "endBinding": {
-        "elementId": "g7vjXYJNQMOK1ZET7Mala",
-        "mode": "inside",
-        "fixedPoint": [
-          0.9368197244263067,
-          0.11886797448687275
-        ],
-        "focus": 0
+        "elementId": "fORI-lg_oNTbZUHwJM0aO",
+        "focus": 0,
+        "gap": 14
       },
       "startArrowhead": null,
       "endArrowhead": "circle",
@@ -118426,10 +118183,10 @@
     {
       "id": "VLcimqzEiXy6qOVbfWpbW",
       "type": "arrow",
-      "x": 2557.41792409854,
-      "y": -476.79355889338774,
-      "width": 74.02302466008314,
-      "height": 422.73691225170705,
+      "x": 2547.501877538689,
+      "y": -431.9341232120351,
+      "width": 41.46708508326401,
+      "height": 386.8153699907238,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118445,11 +118202,11 @@
         "type": 2
       },
       "seed": 775120025,
-      "version": 664,
-      "versionNonce": 508081977,
+      "version": 762,
+      "versionNonce": 1360601719,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774679040131,
       "link": null,
       "locked": false,
       "points": [
@@ -118458,27 +118215,19 @@
           0
         ],
         [
-          74.02302466008314,
-          422.73691225170705
+          41.46708508326401,
+          386.8153699907238
         ]
       ],
       "startBinding": {
-        "elementId": "kRzaDyEV5hKGR_8S06k0W",
-        "mode": "inside",
-        "fixedPoint": [
-          0.9739557410896297,
-          0.8987709265468333
-        ],
-        "focus": 0
+        "elementId": "pRio0O4L_bEt2IO2qdADh",
+        "focus": -0.04331472318587508,
+        "gap": 1.894963812269907
       },
       "endBinding": {
-        "elementId": "_HDla-ET2hKzliKHSszxx",
-        "mode": "orbit",
-        "fixedPoint": [
-          1,
-          0.5001
-        ],
-        "focus": 0
+        "elementId": "IaK0maACdzkPVweDj66E5",
+        "focus": 0.5399567631088472,
+        "gap": 14
       },
       "startArrowhead": null,
       "endArrowhead": "circle",
@@ -118488,52 +118237,12 @@
       "lastCommittedPoint": null
     },
     {
-      "id": "0GT6CFqFetve_m4kSsekk",
-      "type": "embeddable",
-      "x": 2216.8998081272975,
-      "y": -422.17899734576383,
-      "width": 128.20653498145194,
-      "height": 92.8615560924483,
-      "angle": 0,
-      "strokeColor": "#22113E",
-      "backgroundColor": "#d0bfff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "bA0",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 1533897081,
-      "version": 522,
-      "versionNonce": 1361851607,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "-BWFjHtDNJSbd2bzHM6sh",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1774648417966,
-      "link": "https://blog.arduino.cc/wp-content/uploads/2013/10/Touch-BareConductive.jpg",
-      "locked": false,
-      "scale": [
-        1,
-        1
-      ],
-      "hasTextLink": false
-    },
-    {
       "id": "-BWFjHtDNJSbd2bzHM6sh",
       "type": "arrow",
-      "x": 2236.4842585024057,
-      "y": -336.44029470354656,
-      "width": 317.86066255179867,
-      "height": 324.72838161278924,
+      "x": 2237.8353121774353,
+      "y": -306.94586562157224,
+      "width": 323.6277057988532,
+      "height": 277.3697720264797,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118549,11 +118258,11 @@
         "type": 2
       },
       "seed": 1624494681,
-      "version": 632,
-      "versionNonce": 1316972569,
+      "version": 720,
+      "versionNonce": 1327237911,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678661642,
       "link": null,
       "locked": false,
       "points": [
@@ -118562,27 +118271,19 @@
           0
         ],
         [
-          317.86066255179867,
-          324.72838161278924
+          323.6277057988532,
+          277.3697720264797
         ]
       ],
       "startBinding": {
-        "elementId": "0GT6CFqFetve_m4kSsekk",
-        "mode": "inside",
-        "fixedPoint": [
-          0.152757036744978,
-          0.9232959929818557
-        ],
-        "focus": 0
+        "elementId": "hDt9IigtVBaqtOeAyxM0a",
+        "focus": 0.6404665176976951,
+        "gap": 1.6386353534430782
       },
       "endBinding": {
-        "elementId": "X1cek1NWHTjXvitT_yfUI",
-        "mode": "orbit",
-        "fixedPoint": [
-          1,
-          0.5001
-        ],
-        "focus": 0
+        "elementId": "6bbotOEjrnyWvgMOxrMkW",
+        "focus": 0,
+        "gap": 5.58908497183155
       },
       "startArrowhead": null,
       "endArrowhead": "circle",
@@ -118594,10 +118295,10 @@
     {
       "id": "gEHTBQaMToD-PGk7XH0GG",
       "type": "arrow",
-      "x": 2547.831967870941,
-      "y": 412.22362249186085,
-      "width": 34.697971083341145,
-      "height": 230.02744010556538,
+      "x": 2562.505265141356,
+      "y": 389.13387972252286,
+      "width": 47.63134351174767,
+      "height": 206.93769733622736,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118613,11 +118314,11 @@
         "type": 2
       },
       "seed": 1127882553,
-      "version": 492,
-      "versionNonce": 1771930103,
+      "version": 566,
+      "versionNonce": 1586297975,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678817345,
       "link": null,
       "locked": false,
       "points": [
@@ -118626,27 +118327,19 @@
           0
         ],
         [
-          -34.697971083341145,
-          -230.02744010556538
+          -47.63134351174767,
+          -206.93769733622736
         ]
       ],
       "startBinding": {
-        "elementId": "4IpcfVi4yAA-4FIuBmBk-",
-        "mode": "inside",
-        "fixedPoint": [
-          0.9267704436332939,
-          0.09278522809490614
-        ],
-        "focus": 0
+        "elementId": "-uuEQnhWHs9h55vLenQgr",
+        "focus": 0.41728415794700763,
+        "gap": 1
       },
       "endBinding": {
-        "elementId": "TfXKQ7gGkINZqMKUqyao_",
-        "mode": "inside",
-        "fixedPoint": [
-          0.9057401121556108,
-          0.8795347834791287
-        ],
-        "focus": 0
+        "elementId": "41YvNhcjRhiWPpw_LQQBa",
+        "focus": -0.9441610988207787,
+        "gap": 7.385810338905884
       },
       "startArrowhead": null,
       "endArrowhead": "circle",
@@ -118658,10 +118351,10 @@
     {
       "id": "g1uTGD8KESlCP1rhPeVFV",
       "type": "arrow",
-      "x": 2307.5318953509986,
-      "y": 400.5380556907329,
-      "width": 34.28475378896019,
-      "height": 162.51763726774828,
+      "x": 2269.1028819934263,
+      "y": 420.89397309304127,
+      "width": 44.76749967774958,
+      "height": 178.83037981045746,
       "angle": 0,
       "strokeColor": "#EA7DFF",
       "backgroundColor": "#d0bfff",
@@ -118677,11 +118370,11 @@
         "type": 2
       },
       "seed": 553898009,
-      "version": 521,
-      "versionNonce": 711785721,
+      "version": 552,
+      "versionNonce": 1611852055,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774648417966,
+      "updated": 1774678955658,
       "link": null,
       "locked": false,
       "points": [
@@ -118690,27 +118383,19 @@
           0
         ],
         [
-          34.28475378896019,
-          -162.51763726774828
+          44.76749967774958,
+          -178.83037981045746
         ]
       ],
       "startBinding": {
-        "elementId": "XWPXXVW6HAtYleGvgxN-A",
-        "mode": "inside",
-        "fixedPoint": [
-          0.8744502213679496,
-          0.09636827409027435
-        ],
-        "focus": 0
+        "elementId": "kcQ2T05_az5x7_hp4Stvt",
+        "focus": 0.2462932345636266,
+        "gap": 1
       },
       "endBinding": {
-        "elementId": "Rku7o8nIShQqwcVNKFk66",
-        "mode": "inside",
-        "fixedPoint": [
-          0.8016159944697587,
-          0.8959513070685301
-        ],
-        "focus": 0
+        "elementId": "2O96pXfYdOgouvwU8x9SV",
+        "focus": -1.2765379972280961,
+        "gap": 5.977612014710639
       },
       "startArrowhead": null,
       "endArrowhead": "circle",
@@ -118722,10 +118407,10 @@
     {
       "id": "YOLGV09GVR8RPLngAWHsq",
       "type": "arrow",
-      "x": -3025.235643123772,
-      "y": 338.1195630785079,
-      "width": 723.6750512412095,
-      "height": 1.248286835968429,
+      "x": 9.695949428320091,
+      "y": 337.21835822663047,
+      "width": 531.9926036084835,
+      "height": 5.2185925879498996,
       "angle": 0,
       "strokeColor": "#3b0764",
       "backgroundColor": "#08f2db",
@@ -118741,11 +118426,11 @@
         "type": 2
       },
       "seed": 593355641,
-      "version": 193,
-      "versionNonce": 1501543511,
+      "version": 200,
+      "versionNonce": 817480953,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1774649295100,
+      "boundElements": [],
+      "updated": 1774679852021,
       "link": null,
       "locked": false,
       "points": [
@@ -118754,8 +118439,8 @@
           0
         ],
         [
-          723.6750512412095,
-          1.248286835968429
+          -531.9926036084835,
+          5.2185925879498996
         ]
       ],
       "lastCommittedPoint": null,
@@ -118796,7 +118481,7 @@
       "version": 35,
       "versionNonce": 566967511,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774649317864,
       "link": null,
       "locked": false,
@@ -118809,6 +118494,993 @@
       "originalText": "swipe to the side",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "sub-a-BXOrfJZ6ineqDJd",
+      "type": "rectangle",
+      "x": -3027.8187421983716,
+      "y": 383.9316635635389,
+      "width": 216.0301263424326,
+      "height": 328.06181367868226,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAC",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1533394769,
+      "version": 305,
+      "versionNonce": 960542629,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774651836760,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/10-years.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/10-years.mp4"
+      }
+    },
+    {
+      "id": "7v3f9hi3TD_SMn-dE74GD",
+      "type": "rectangle",
+      "x": -2769.7287953170844,
+      "y": 387.0197878322073,
+      "width": 394.6210956533255,
+      "height": 217.3176455704273,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAD",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1912455935,
+      "version": 291,
+      "versionNonce": 1228384997,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774651769539,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/touch-skin.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/touch-skin.mp4"
+      }
+    },
+    {
+      "id": "o4J7b7YiQ-RxMo81Tz_Zz",
+      "type": "rectangle",
+      "x": -2341.2550485832708,
+      "y": 386.1144584589568,
+      "width": 437.8998248192691,
+      "height": 253.8313703649833,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAE",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 750418577,
+      "version": 232,
+      "versionNonce": 627348683,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774651798277,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/materialosos.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos.mp4"
+      }
+    },
+    {
+      "id": "MAp6c5zo9jl2R-96lMHH2",
+      "type": "rectangle",
+      "x": 1242.0393569330276,
+      "y": 121.19587494908541,
+      "width": 65.26673862269081,
+      "height": 71.29857031637053,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAF",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2051564075,
+      "version": 303,
+      "versionNonce": 559337497,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679461980,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg"
+      }
+    },
+    {
+      "id": "QO-UC_S-Kul9EkvO3kZ3x",
+      "type": "rectangle",
+      "x": 2713.564522221155,
+      "y": -513.0818706129046,
+      "width": 182.03178417386167,
+      "height": 102.35882649464452,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAG",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1851722457,
+      "version": 378,
+      "versionNonce": 1222493817,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "6GHvoqeCOs9s9MSz43rAW",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679494876,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://makeymakey.com/cdn/shop/files/Craft_Code_1800x.webp?v=1739802092",
+        "title": "https://makeymakey.com/cdn/shop/files/Craft_Code_1800x.webp?v=1739802092"
+      }
+    },
+    {
+      "id": "DXAgpRIk8fXZ-wcI4SWTa",
+      "type": "rectangle",
+      "x": 2940.783842875183,
+      "y": -416.0304155754201,
+      "width": 123.8767140940408,
+      "height": 113.45685106995845,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAH",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 943481911,
+      "version": 450,
+      "versionNonce": 295877015,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "_KPDdqq_UJ4zAzPX_hblm",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679494876,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://circuitscribe.com/cdn/shop/products/super-plus-kit-1.jpg?v=1588278304",
+        "title": "https://circuitscribe.com/cdn/shop/products/super-plus-kit-1.jpg?v=1588278304"
+      }
+    },
+    {
+      "id": "hDt9IigtVBaqtOeAyxM0a",
+      "type": "rectangle",
+      "x": 2178.1410964587676,
+      "y": -421.08197105180375,
+      "width": 190.17467840601554,
+      "height": 112.49747007678843,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAI",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 551221593,
+      "version": 247,
+      "versionNonce": 1513131865,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "-BWFjHtDNJSbd2bzHM6sh",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679494876,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://blog.arduino.cc/wp-content/uploads/2013/10/Touch-BareConductive.jpg",
+        "title": "https://blog.arduino.cc/wp-content/uploads/2013/10/Touch-BareConductive.jpg"
+      }
+    },
+    {
+      "id": "NUM5dI4cCpkxtdvHlgscx",
+      "type": "rectangle",
+      "x": 1987.8224114124137,
+      "y": -499.08793674339194,
+      "width": 105.40566892306761,
+      "height": 133.9354898007141,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAJ",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1322216023,
+      "version": 207,
+      "versionNonce": 174419639,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ufJ_QNxeEW9ii1dUXX-mf",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679494876,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://i.ebayimg.com/images/g/6HcAAOSwXytnC1ZJ/s-l1600.webp",
+        "title": "https://i.ebayimg.com/images/g/6HcAAOSwXytnC1ZJ/s-l1600.webp"
+      }
+    },
+    {
+      "id": "-uuEQnhWHs9h55vLenQgr",
+      "type": "rectangle",
+      "x": 2416.203791177577,
+      "y": 390.1338797225228,
+      "width": 218.3698198164054,
+      "height": 122.49990524632189,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAK",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 113708601,
+      "version": 218,
+      "versionNonce": 1138826391,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "gEHTBQaMToD-PGk7XH0GG",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679484534,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://inq.shop/cdn/shop/files/Screenshot_2025-04-10_at_18.40.58_1824x1024.png?v=1744306892",
+        "title": "https://inq.shop/cdn/shop/files/Screenshot_2025-04-10_at_18.40.58_1824x1024.png?v=1744306892"
+      }
+    },
+    {
+      "id": "kcQ2T05_az5x7_hp4Stvt",
+      "type": "rectangle",
+      "x": 2089.819936593738,
+      "y": 421.0465798796629,
+      "width": 245.35087712684748,
+      "height": 168.94840527874433,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAL",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 27600471,
+      "version": 166,
+      "versionNonce": 1002298457,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "g1uTGD8KESlCP1rhPeVFV",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679484534,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Reactable_Multitouch.jpg",
+        "title": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Reactable_Multitouch.jpg"
+      }
+    },
+    {
+      "id": "pRio0O4L_bEt2IO2qdADh",
+      "type": "rectangle",
+      "x": 2417.6481933597192,
+      "y": -611.7205293594066,
+      "width": 229.47661474494095,
+      "height": 177.89144233510146,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAM",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 102366489,
+      "version": 294,
+      "versionNonce": 1274494009,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "VLcimqzEiXy6qOVbfWpbW",
+          "type": "arrow"
+        },
+        {
+          "id": "FcByyPGzqEPYIzIujcvVU",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774679494876,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://chibitronics.com/wp-content/uploads/2021/07/sketchbook_gallery.jpg",
+        "title": "https://chibitronics.com/wp-content/uploads/2021/07/sketchbook_gallery.jpg"
+      }
+    },
+    {
+      "id": "jE13cz6sH9U3--O6V1_-0",
+      "type": "rectangle",
+      "x": 1319.8624321546692,
+      "y": 121.66276430133485,
+      "width": 65.26673862269081,
+      "height": 71.29857031637053,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAN",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 39559543,
+      "version": 414,
+      "versionNonce": 1615895031,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679461980,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/materialosos_2.jpg",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg"
+      }
+    },
+    {
+      "id": "8l-QRqlmMWP2TqjU2_Bgk",
+      "type": "rectangle",
+      "x": 1395.889212241318,
+      "y": 123.01413758686044,
+      "width": 65.26673862269081,
+      "height": 71.29857031637053,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAO",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2016917241,
+      "version": 481,
+      "versionNonce": 2115462393,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679461980,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/materialosos_3.jpg",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg"
+      }
+    },
+    {
+      "id": "LMt-FapC-ZWoJlILbr-og",
+      "type": "rectangle",
+      "x": 1473.5006163449668,
+      "y": 123.37697205804272,
+      "width": 65.26673862269081,
+      "height": 71.29857031637053,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAP",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1919539257,
+      "version": 547,
+      "versionNonce": 490226455,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679461980,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/materialosos_4.jpg",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg"
+      }
+    },
+    {
+      "id": "m9sMEWghC4flPCPTJAAAl",
+      "type": "rectangle",
+      "x": 1241.7974849620425,
+      "y": 213.88380945891333,
+      "width": 65.26673862269081,
+      "height": 71.29857031637053,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAQ",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1648944985,
+      "version": 375,
+      "versionNonce": 1757618105,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679467370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/materialosos_5.jpg",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg"
+      }
+    },
+    {
+      "id": "-gHX1CMGC7pIyZp8GhgK4",
+      "type": "rectangle",
+      "x": 1318.753565582025,
+      "y": 213.94489893620428,
+      "width": 65.26673862269081,
+      "height": 71.29857031637053,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAR",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1785133303,
+      "version": 485,
+      "versionNonce": 1347064919,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679467370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/materialosos_6.jpg",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg"
+      }
+    },
+    {
+      "id": "-xlKZr_KJEXU92PKn3o2J",
+      "type": "rectangle",
+      "x": 1404.1290085744183,
+      "y": 217.87870863846803,
+      "width": 124.58067531166452,
+      "height": 65.48762998063626,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAS",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1515678009,
+      "version": 402,
+      "versionNonce": 513327257,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679467370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/materialosos.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos.mp4"
+      }
+    },
+    {
+      "id": "hIiMgALOjXfPkZnOZBNHV",
+      "type": "rectangle",
+      "x": 1256.767095905631,
+      "y": 389.3777688138347,
+      "width": 117.59315224728225,
+      "height": 183.03509881356422,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAT",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 143094487,
+      "version": 484,
+      "versionNonce": 2026318583,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679447998,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/sprint-1.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg"
+      }
+    },
+    {
+      "id": "tEeUmySvL-j_9Ye1q6Qvv",
+      "type": "rectangle",
+      "x": 1398.997023992702,
+      "y": 388.0822869655868,
+      "width": 117.59315224728225,
+      "height": 183.03509881356422,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAU",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1149765655,
+      "version": 554,
+      "versionNonce": 986604537,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679447998,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/sprint-3.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/materialosos_1.jpg"
+      }
+    },
+    {
+      "id": "xmFybk88bf7YYR-201kFu",
+      "type": "rectangle",
+      "x": 1640.3373503513662,
+      "y": 138.32394917776378,
+      "width": 168.46634798455082,
+      "height": 266.4777919817221,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAV",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1791940537,
+      "version": 750,
+      "versionNonce": 1760651993,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679863279,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/mr-sonnet.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/mr-sonnet.mp4"
+      }
+    },
+    {
+      "id": "fDLdoYF9-blHbjijYcv39",
+      "type": "embeddable",
+      "x": 1577.1910671005348,
+      "y": 426.3354611725415,
+      "width": 257.97489150604093,
+      "height": 143.46220013055517,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAY",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1561666777,
+      "version": 440,
+      "versionNonce": 1099058423,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774679892746,
+      "link": "https://youtu.be/EuS4acOFfBI?si=AktqfFX6aDaXl5we",
+      "locked": false
+    },
+    {
+      "id": "ojKMCjO6IY6E9HdSGIvqA",
+      "type": "rectangle",
+      "x": 1368.2131418024205,
+      "y": -450.0845072847612,
+      "width": 234.4082227564983,
+      "height": 151.4353423752455,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAZ",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 812702957,
+      "version": 485,
+      "versionNonce": 1285614125,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774680077543,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/conductive-ink.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/conductive-ink.mp4"
+      }
+    },
+    {
+      "id": "81_t6j_MJn8wHeIyvMlCh",
+      "type": "rectangle",
+      "x": 1634.3125477769345,
+      "y": -567.9898042669162,
+      "width": 181.70547561803713,
+      "height": 279.87767724411344,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAa",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 209944301,
+      "version": 654,
+      "versionNonce": 843958499,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774680069193,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "video",
+        "src": "https://media.linalopes.info/paper-as-interface/tactile-emotions.mp4",
+        "title": "https://media.linalopes.info/paper-as-interface/conductive-ink.mp4"
+      }
+    },
+    {
+      "id": "zvJyZb8vYg_4kS1yvOr4D",
+      "type": "embeddable",
+      "x": 798.4223430797896,
+      "y": -419.1373333411295,
+      "width": 207.04957910449582,
+      "height": 130.33767659028766,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAb",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1743120899,
+      "version": 124,
+      "versionNonce": 639628387,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774680230190,
+      "link": "https://youtu.be/6Y70L11N-dE?si=Bj1sH0KR4wr39vQB",
+      "locked": false
+    },
+    {
+      "id": "Abss69klGGPwG8mLMK_d_",
+      "type": "embeddable",
+      "x": 1021.392195215773,
+      "y": -414.67812747551017,
+      "width": 229.0731810645964,
+      "height": 122.592315598216,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAc",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1815943619,
+      "version": 136,
+      "versionNonce": 2072604675,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774680230190,
+      "link": "https://youtu.be/h3HS4Okf7-Q?si=3ooUr_HFLIv12w-u",
+      "locked": false
+    },
+    {
+      "id": "4cx32vjxhQRdz-jOhybWn",
+      "type": "rectangle",
+      "x": 809.3307860723072,
+      "y": -636.0488519908374,
+      "width": 414.7838169349266,
+      "height": 184.16008252733067,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAd",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2106316419,
+      "version": 223,
+      "versionNonce": 91544749,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774680336459,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "iframe",
+        "src": "https://www.papermech.net/learn/",
+        "title": "https://www.papermech.net/learn/"
+      }
+    },
+    {
+      "id": "Q2R4477xgQA4VRMza-kLk",
+      "type": "embeddable",
+      "x": 1299.4592876720774,
+      "y": -604.4452967085379,
+      "width": 229.82833061097153,
+      "height": 129.2784359686715,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAe",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 156147245,
+      "version": 80,
+      "versionNonce": 808537069,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774680395070,
+      "link": "https://youtu.be/4w7L0VfHRRE?si=v9wYouTCkefg67-G",
+      "locked": false
     }
   ],
   "appState": {
