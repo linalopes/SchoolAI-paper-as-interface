@@ -118407,10 +118407,10 @@
     {
       "id": "YOLGV09GVR8RPLngAWHsq",
       "type": "arrow",
-      "x": 9.695949428320091,
-      "y": 337.21835822663047,
-      "width": 531.9926036084835,
-      "height": 5.2185925879498996,
+      "x": -3000.2523127015875,
+      "y": 336.6871789830784,
+      "width": 684.6355123732733,
+      "height": 1.5256321327772753,
       "angle": 0,
       "strokeColor": "#3b0764",
       "backgroundColor": "#08f2db",
@@ -118426,11 +118426,11 @@
         "type": 2
       },
       "seed": 593355641,
-      "version": 200,
-      "versionNonce": 817480953,
+      "version": 464,
+      "versionNonce": 23234256,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774679852021,
+      "updated": 1774684963270,
       "link": null,
       "locked": false,
       "points": [
@@ -118439,8 +118439,8 @@
           0
         ],
         [
-          -531.9926036084835,
-          5.2185925879498996
+          684.6355123732733,
+          1.5256321327772753
         ]
       ],
       "lastCommittedPoint": null,
@@ -118451,8 +118451,8 @@
       },
       "endBinding": {
         "elementId": "XZHWT820SjG2u3AYPSlkU",
-        "focus": -0.17395308626499711,
-        "gap": 14
+        "focus": 0,
+        "gap": 15.168683997995743
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -118478,11 +118478,16 @@
       "index": "bAB",
       "roundness": null,
       "seed": 610259607,
-      "version": 35,
-      "versionNonce": 566967511,
+      "version": 36,
+      "versionNonce": 1594713136,
       "isDeleted": false,
-      "boundElements": [],
-      "updated": 1774649317864,
+      "boundElements": [
+        {
+          "id": "YOLGV09GVR8RPLngAWHsq",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774684940836,
       "link": null,
       "locked": false,
       "text": "swipe to the side",
@@ -119309,7 +119314,7 @@
       "version": 485,
       "versionNonce": 1285614125,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774680077543,
       "link": null,
       "locked": false,
@@ -119381,7 +119386,7 @@
       "version": 124,
       "versionNonce": 639628387,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774680230190,
       "link": "https://youtu.be/6Y70L11N-dE?si=Bj1sH0KR4wr39vQB",
       "locked": false
@@ -119411,7 +119416,7 @@
       "version": 136,
       "versionNonce": 2072604675,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774680230190,
       "link": "https://youtu.be/h3HS4Okf7-Q?si=3ooUr_HFLIv12w-u",
       "locked": false
@@ -119441,7 +119446,7 @@
       "version": 223,
       "versionNonce": 91544749,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774680336459,
       "link": null,
       "locked": false,
@@ -119477,10 +119482,210 @@
       "version": 80,
       "versionNonce": 808537069,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774680395070,
       "link": "https://youtu.be/4w7L0VfHRRE?si=v9wYouTCkefg67-G",
       "locked": false
+    },
+    {
+      "id": "6NINuEdd8biQOL_WEXK3U",
+      "type": "rectangle",
+      "x": -93.64094222137493,
+      "y": 185.0301672158667,
+      "width": 204.14287858744,
+      "height": 108.1528390278678,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAf",
+      "roundness": null,
+      "seed": 421544496,
+      "version": 171,
+      "versionNonce": 1798093360,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774685395490,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/moebius_1.GIF",
+        "title": "https://media.linalopes.info/paper-as-interface/moebius_1.GIF"
+      }
+    },
+    {
+      "id": "Sv4V0lzYo-Gdbmsxq5uw1",
+      "type": "rectangle",
+      "x": 172.86767357550792,
+      "y": 185.94184614787486,
+      "width": 204.14287858744,
+      "height": 108.1528390278678,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAg",
+      "roundness": null,
+      "seed": 1387737808,
+      "version": 241,
+      "versionNonce": 1312609328,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "5p_icEzWWL147cXYkqrOZ",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774685462588,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/moebius_2.GIF",
+        "title": "https://media.linalopes.info/paper-as-interface/moebius_1.GIF"
+      }
+    },
+    {
+      "id": "3IPaXvcg8MVxp40fRjbrZ",
+      "type": "rectangle",
+      "x": 425.40273774179184,
+      "y": 188.7017469147725,
+      "width": 204.14287858744,
+      "height": 108.1528390278678,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAh",
+      "roundness": null,
+      "seed": 1162526768,
+      "version": 244,
+      "versionNonce": 726099152,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1774685408058,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/moebius_4.GIF",
+        "title": "https://media.linalopes.info/paper-as-interface/moebius_1.GIF"
+      }
+    },
+    {
+      "id": "p6qkPboxhsnfdONaqTw-t",
+      "type": "rectangle",
+      "x": 107.40498226217068,
+      "y": 429.1736412125291,
+      "width": 363.07752440249556,
+      "height": 200.68825062670473,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAi",
+      "roundness": null,
+      "seed": 641819696,
+      "version": 384,
+      "versionNonce": 727485488,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "5p_icEzWWL147cXYkqrOZ",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1774685478955,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "embedType": "iframe",
+        "embedKind": "image",
+        "src": "https://media.linalopes.info/paper-as-interface/moebius_3.GIF",
+        "title": "https://media.linalopes.info/paper-as-interface/moebius_1.GIF"
+      }
+    },
+    {
+      "id": "5p_icEzWWL147cXYkqrOZ",
+      "type": "arrow",
+      "x": 280.206375724245,
+      "y": 295.09468517574265,
+      "width": 9.396538140261498,
+      "height": 133.07895603678645,
+      "angle": 0,
+      "strokeColor": "#EA7DFF",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bAj",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1277084880,
+      "version": 104,
+      "versionNonce": 844858928,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1774685478955,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          9.396538140261498,
+          133.07895603678645
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Sv4V0lzYo-Gdbmsxq5uw1",
+        "focus": -0.01226220941940473,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "p6qkPboxhsnfdONaqTw-t",
+        "focus": 0.041210910639790536,
+        "gap": 1
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
